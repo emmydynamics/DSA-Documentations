@@ -75,7 +75,45 @@ this are place where data can be retrived
 
 4. Name Box: tells you position you are in excel 
 
-5. Formula Bar: the box in front of the name box it display calculations 
+5. Formula Bar: the box in front of the name box it display calculations
+
+   ![11](https://github.com/user-attachments/assets/b27fe011-7d3f-4d9b-b1ed-63d92a36b351)
+
+### FUNCTIONS 
+
+Sum function is use to add numbers from different cell
+
+```
+=SUM(D8:D27)
+```
+
+Average function which known as the mean 
+```
+=Average(D8:D27)
+```
+
+To find the largest salary
+```
+=Max(D8:D27)
+```
+
+Lowest of salary
+```
+=Min(D8:D27)
+```
+
+Fourth Highest Salary
+```
+=Large(D8:D27)
+```
+
+Third Lowest Salary
+```
+=Small(D8:D27,3)
+```
+
+
+
 
 
 
