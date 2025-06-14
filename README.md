@@ -89,7 +89,7 @@ Sum function is use to add numbers from different cell
 =SUM(D8:D27)
 ```
 
-Average function which known as the mean 
+Average function which is also known as the mean 
 ```
 =Average(D8:D27)
 ```
