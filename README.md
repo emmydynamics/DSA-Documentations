@@ -81,8 +81,10 @@ this are place where data can be retrived
 
 ### FUNCTIONS 
 
-Sum function is use to add numbers from different cell
 
+![13](https://github.com/user-attachments/assets/1316f6e5-7daa-45af-b9c4-faaa8d26267d)
+
+Sum function is use to add numbers from different cell
 ```
 =SUM(D8:D27)
 ```
