@@ -62,7 +62,24 @@ this are place where data can be retrived
 
 - What is working
 - what is not working
-- whate we should focus on 
+- whate we should focus on
+
+
+## EXCEL FUNCTIONS
+
+1. Rows: are the numbers **Total Numbers rows in Excel 1048576**
+
+2. Columns: are the latters **Total Numbers column in Excel 16384**
+
+3. Cell: this is the intercept of rows and columns 
+
+4. Name Box: tells you position you are in excel 
+
+5. Formula Bar: the box in front of the name box it display calculations 
+
+
+
+
 
 
 
