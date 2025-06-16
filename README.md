@@ -197,10 +197,11 @@ First Name with Email
 #### FUNCTION 3
 
 IF function Return one value if the condiction is true and another value if the condiction is false
-==========picture 06===============
+![06](https://github.com/user-attachments/assets/b38f32a4-933c-47b3-8026-c7399a661de4)
 
 Below is the score of student grade between two subject math and english
-========picture 07=========
+
+![07](https://github.com/user-attachments/assets/fda3746c-2839-4e9b-b5d0-322f92c1cce0)
 
 - **And** function returns true if the condictions are true
   ```
@@ -215,11 +216,12 @@ Below is the score of student grade between two subject math and english
    ```
 
 - **OR** Returns True if one of the condiction is meet
+
   ```
   =OR(condiction 1, condiction 2)
   ```
 
-**NOTE:** That and function will only return True or False in order to make it more dynamic we will be nesting it with **IF** function
+  **NOTE:** That and function will only return True or False in order to make it more dynamic we will be nesting it with **IF** function
   
 
   
