@@ -114,7 +114,88 @@ Third Lowest Salary
 =Small(D8:D27,3)
 ```
 
+##### The data below shows the Company lost their Data and where able to retrive Numbers.
 
+=============picture 01===============
+
+=============Picture 02============
+
+To seperate this numbers Left, Right and Mid functions will be used 
+
+- Left: Returns specific numbers of characters from the starting of the text strings
+```
+=left(Text,[num_chars])
+```
+
+- Right: Returns specific numbers of characters from the end of the text strings
+ ```
+  =Right(Text,[num_chars])
+```
+
+- Mid:  Returns the character of the  middle of a text string, at a giving position and length
+  ```
+  =Right(Text,start_chars,Num_chars)
+  ```
+
+#### TEXT CLEANING
+
+The names are inconsistent to correct this in consistency 
+
+============picture 03==============
+
+1. Eliminate Unnecessary Space from Names
+    ```
+   =Trim(C6)
+   ```
+    
+2. Names written in Upper case
+   ```
+   =Upper(C6)
+   ```
+
+3. Names written in Lower case
+   ```
+   =Lower(C6)
+   ```
+4. Names properly Entered
+   ```
+   =Proper
+   ```
+
+5. Names Properly Entered and Trimmed
+   ```
+   =Proper(Trim(C6))
+   ```
+
+6. Company Names Properly Entered
+   ```
+   =Upper(E6)
+   ```
+
+#### TEXT CLEANING 
+
+=============PICTURE 04===========
+
+To split text type the text the way you want it to be on the cell then click on the next cell then press **Ctrl+E**
+
+First Name with Email
+```
+=CONCATENATE([@NAMES],$E$4)
+```
+     
+   **  OR**
+
+```
+=[@[First Name]]&$E$4
+```
+ 
+
+
+
+
+ 
+
+ 
 
 
 
