@@ -139,11 +139,12 @@ To seperate this numbers Left, Right and Mid functions will be used
   =Right(Text,start_chars,Num_chars)
   ```
 
-#### TEXT CLEANING
+#### TEXT CLEANING 
 
 The names are inconsistent to correct this in consistency 
 
-============picture 03==============
+![03](https://github.com/user-attachments/assets/9b1d9cf9-e590-41ea-9642-cb723a769564)
+
 
 1. Eliminate Unnecessary Space from Names
     ```
@@ -174,7 +175,7 @@ The names are inconsistent to correct this in consistency
    =Upper(E6)
    ```
 
-#### TEXT CLEANING 
+#### TEXT CLEANING 2
 
 ![04](https://github.com/user-attachments/assets/8cc5a152-169c-44ab-bb23-28a03a740017)
 
