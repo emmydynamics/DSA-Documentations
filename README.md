@@ -116,9 +116,11 @@ Third Lowest Salary
 
 ##### The data below shows the Company lost their Data and where able to retrive Numbers.
 
-=============picture 01===============
+![01](https://github.com/user-attachments/assets/acb9bd41-820a-47ea-8e9e-33040f59ef11)
 
-=============Picture 02============
+
+![02](https://github.com/user-attachments/assets/f304df7e-12b4-4ead-aff0-af56251c239c)
+
 
 To seperate this numbers Left, Right and Mid functions will be used 
 
@@ -174,7 +176,8 @@ The names are inconsistent to correct this in consistency
 
 #### TEXT CLEANING 
 
-=============PICTURE 04===========
+![04](https://github.com/user-attachments/assets/8cc5a152-169c-44ab-bb23-28a03a740017)
+
 
 To split text type the text the way you want it to be on the cell then click on the next cell then press **Ctrl+E**
 
