@@ -184,7 +184,7 @@ To split text type the text the way you want it to be on the cell then click on 
 
 First Name with Email
 ```
-=CONCATENATE([@NAMES],$E$4)
+=CONCATENATE([@NAMES]&$E$4)
 ```
      
    **  OR**
@@ -192,7 +192,37 @@ First Name with Email
 ```
 =[@[First Name]]&$E$4
 ```
- 
+
+
+#### FUNCTION 3
+
+IF function Return one value if the condiction is true and another value if the condiction is false
+==========picture 06===============
+
+Below is the score of student grade between two subject math and english
+========picture 07=========
+
+- **And** function returns true if the condictions are true
+  ```
+  =And(condiction 1, condiction 2)
+  ```
+
+  for the data above the condiction for a student to pass a subject is that the student must have **50** or more the **50** in each subject,
+
+  **NOTE:** That and function will only return True or False in order to make it more dynamic we will be nesting it with **IF** function
+   ```
+   =if(And(condiction 1, condiction 2),Value if True, Value if False)
+   ```
+
+- **OR** Returns True if one of the condiction is meet
+  ```
+  =OR(condiction 1, condiction 2)
+  ```
+
+**NOTE:** That and function will only return True or False in order to make it more dynamic we will be nesting it with **IF** function
+  
+
+  
 
 
 
